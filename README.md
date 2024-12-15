@@ -60,5 +60,3 @@ By leveraging Excel for data management and Power BI for visualization and insig
    - High-performing customer segments and cities.
    - Popular food categories and product preferences.
 3. Strategic recommendations for Swiggy to optimize marketing and business operations.
-
----
