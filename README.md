@@ -1,5 +1,5 @@
 # **Swiggy Data Analysis Using Power BI**
-
+# ![Banner](swiggy.png)
 ## **Objective**
 The primary objective of this project is to analyze Swiggy's sales performance, customer demographics, and food preferences. Using key metrics such as sales, quantity, rating counts, and active users, this analysis aims to uncover actionable insights that can:
 
